@@ -4,13 +4,13 @@ Three hands-on projects on Oracle Cloud Infrastructure, built sequentially on a 
 
 **Tenancy:** `qmamajd` · **Region:** `me-jeddah-1` · **Identity domain:** Default
 
-| Certification | Status |
-|---|---|
-| OCI Foundations Associate | ✅ Passed |
-| OCI Architect Associate (1Z0-1072-26) | ✅ Passed — Aug 8, 2026 |
-| OCI AI Foundations | 🔜 Next |
-| OCI GenAI Professional | Planned |
-| OCI Architect Professional | Planned |
+## Certification Roadmap
+
+- ✅ OCI Foundations Associate — Complete
+- ✅ OCI Architect Associate (1Z0-1072-26) — Complete (exam + 3 hands-on projects)
+- ✅ OCI AI Foundations Associate — Exam passed on September 12, 2026 (project in progress)
+- 🔄 OCI Enterprise AI Professional (1Z0-1158-26) — In progress
+- ⏳ OCI Architect Professional — Planned
 
 ---
 
